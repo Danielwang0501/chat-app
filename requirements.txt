@@ -1,0 +1,5 @@
+fastapi
+requests
+python-socketio
+uvicorn[standard]
+python-socketio[client]
